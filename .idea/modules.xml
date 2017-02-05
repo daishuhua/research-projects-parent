@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/research-projects-parent.iml" filepath="$PROJECT_DIR$/research-projects-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-di/spring-di.iml" filepath="$PROJECT_DIR$/spring-di/spring-di.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-mvc/spring-mvc.iml" filepath="$PROJECT_DIR$/spring-mvc/spring-mvc.iml" />
     </modules>
   </component>
 </project>
