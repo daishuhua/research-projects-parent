@@ -12,7 +12,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="research-projects-parent" target="1.5" />
-      <module name="spring-di" target="1.5" />
+      <module name="spring-di" target="1.7" />
       <module name="spring-mvc" target="1.7" />
     </bytecodeTargetLevel>
   </component>
